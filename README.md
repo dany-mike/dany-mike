@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dany-Mike</h1>
 <h3 align="center">A passionate full stack developer based in Paris🗼</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dany-mike" alt="dany-mike" /></a> </p>
-
 - 🔭 I’m currently working on [An e-commerce site using NestJS and VueJS](https://62b78041badacb4314022b1f--legendary-salmiakki-4b2b0b.netlify.app/)
 
 - 🌱 I’m currently learning **Flutter**

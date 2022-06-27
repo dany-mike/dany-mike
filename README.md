@@ -17,14 +17,5 @@
 
 - 🖋️ Fun fact **My goal is to expat in the uk to master the Shakespeare language 🇬🇧**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dany-mike/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dany-mike/" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dany-mike&show_icons=true&locale=en&layout=compact" alt="dany-mike" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dany-mike&show_icons=true&locale=en" alt="dany-mike" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dany-mike&" alt="dany-mike" /></p>
 

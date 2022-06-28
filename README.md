@@ -9,7 +9,7 @@
 
 - 📱 I also plan to make **An android application for my e-commerce site**
 
-- 👨‍💻 All of my projects are available at [http://danymike.com](http://danymike.com){:target="_blank"}
+- 👨‍💻 All of my projects are available on <a href="http://danymike.com" target="_blank">danymike.com</a>
 
 - ☁️ I'm preparing the **AWS Cloud Practitioner certification**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [An e-commerce site using NestJS and VueJS](https://62bac42685ab400008fefd10--legendary-salmiakki-4b2b0b.netlify.app/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📦 My next project is **A backoffice for my e-commerce site using React.js**
 

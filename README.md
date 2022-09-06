@@ -5,6 +5,6 @@
 
 - 📦 My next project is **A backoffice for my e-commerce site using React.js**
 
-- ☁️ I'm preparing the **AWS Cloud Practitioner certification**
+- ☁️ I'm **AWS Cloud Practitioner certified**
 
 - 📫 How to reach me **danymike.joseph@gmail.com**
